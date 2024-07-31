@@ -1,0 +1,362 @@
+[
+    {
+        "pergunta": "Qual é o planeta mais próximo do Sol?",
+        "respostas": ["Terra", "Marte", "Vênus", "Mercúrio"],
+        "correta": "Mercúrio",
+        "tema": "ciencias"
+    },
+    {
+        "pergunta": "Qual é o maior animal terrestre do mundo?",
+        "respostas": ["Elefante", "Girafa", "Baleia Azul", "Rinoceronte"],
+        "correta": "Elefante",
+        "tema": "gerais"
+    },
+    {
+        "pergunta": "Quantos continentes existem no mundo?",
+        "respostas": ["Cinco", "Seis", "Sete", "Oito"],
+        "correta": "Seis",
+        "tema": "geografia"
+    },
+    {
+        "pergunta": "Qual é a capital do Brasil?",
+        "respostas": ["Rio de Janeiro", "São Paulo", "Brasília", "Recife"],
+        "correta": "Brasília",
+        "tema": "geografia"
+    },
+    {
+        "pergunta": "Quem é o autor do livro 'O Senhor dos Anéis'?",
+        "respostas": ["J.R.R. Tolkien", "J.K. Rowling", "George R.R. Martin", "C.S. Lewis"],
+        "correta": "J.R.R. Tolkien",
+        "tema": "arte"
+    },
+    {
+        "pergunta": "Qual é o maior rio do mundo?",
+        "respostas": ["Amazonas", "Nilo", "Yangtze", "Mississippi"],
+        "correta": "Nilo",
+        "tema": "geografia"
+    },
+    {
+        "pergunta": "Quem descobriu o Brasil?",
+        "respostas": ["Pedro Álvares Cabral", "Cristóvão Colombo", "Fernão de Magalhães", "Vasco da Gama"],
+        "correta": "Pedro Álvares Cabral",
+        "tema": "historia"
+    },
+    {
+        "pergunta": "Em que ano o Brasil foi descoberto?",
+        "respostas": ["1492", "1500", "1521", "1532"],
+        "correta": "1500",
+        "tema": "historia"
+    },
+    {
+        "pergunta": "Qual o menor país do mundo?",
+        "respostas": ["Vaticano", "Japão", "São Marino", "Cuba"],
+        "correta": "Vaticano",
+        "tema": "geografia"
+    },
+    {
+        "pergunta": "Quantos planetas tem no sistema solar?",
+        "respostas": ["6", "7", "8", "9"],
+        "correta": "8",
+        "tema": "ciencias"
+    },
+    {
+        "pergunta": "Qual é o maior continente do mundo?",
+        "respostas": ["América", "Ásia", "Europa", "Oceania"],
+        "correta": "Ásia",
+        "tema": "geografia"
+    },
+    {
+        "pergunta": "Qual é o nome do mascote da Disney",
+        "respostas": ["Jerry", "Mickey", "Stuart", "Speedy"],
+        "correta": "Mickey",
+        "tema": "arte"
+    },
+    {
+        "pergunta": "Quem é o vilão no filme 'O Rei Leão'?",
+        "respostas": ["Scar", "Mufasa", "Simba", "Timão"],
+        "correta": "Scar",
+        "tema": "arte"
+    },
+    {
+        "pergunta": "Qual é o nome do super-herói que é o alter ego de Bruce Wayne?",
+        "respostas": ["Superman", "Batman", "Homem-Aranha", "Homem de Ferro"],
+        "correta": "Batman",
+        "tema": "arte"
+    },
+    {
+        "pergunta": "Qual é o nome do personagem que é um ogro verde em uma série de filmes animados?",
+        "respostas": ["Shrek", "Sulley", "Donkey", "Fiona"],
+        "correta": "Shrek",
+        "tema": "arte"
+    },
+    {
+        "pergunta": "Qual é o país de origem do futebol?",
+        "respostas": ["Brasil", "Alemanha", "Inglaterra", "Itália"],
+        "correta": "Inglaterra",
+        "tema": "esportes"
+    },
+    {
+        "pergunta": "Quem é conhecido como 'O Rei do Futebol'?",
+        "respostas": ["Maradona", "Lionel Messi", "Pelé", "Cristiano Ronaldo"],
+        "correta": "Pelé",
+        "tema": "esportes"
+    },
+    {
+        "pergunta": "Qual é o nome do campeonato de automobilismo mais famoso do mundo?",
+        "respostas": ["IndyCar", "Fórmula 1", "NASCAR", "Rally Dakar"],
+        "correta": "Fórmula 1",
+        "tema": "esportes"
+    },
+    {
+        "pergunta": "Qual é o país com o maior número de medalhas olímpicas de todos os tempos?",
+        "respostas": ["China", "Rússia", "Alemanha", "Estados Unidos"],
+        "correta": "Estados Unidos",
+        "tema": "esportes"
+    },
+    {
+        "pergunta": "Qual é o nome do jogador de basquete conhecido como 'King James'?",
+        "respostas": ["Kobe Bryant", "Michael Jordan", "LeBron James", "Shaquille O'Neal"],
+        "correta": "LeBron James",
+        "tema": "esportes"
+    },
+    {
+        "pergunta": "Qual é o número de dias em um ano bissexto?",
+        "respostas": ["365", "364", "367", "366"],
+        "correta": "366",
+        "tema": "gerais"
+    },
+    {
+        "pergunta": "Qual é a empresa mais valiosa do mundo?",
+        "respostas": ["Tesla", "Microsoft", "Apple", "Amazon"],
+        "correta": "Microsoft",
+        "tema": "gerais"
+    },
+    {
+        "pergunta": "Quem é o criador da teoria da relatividade?",
+        "respostas": ["Albert Einstein", "Isaac Newton", "Johannes Kepler", "Nikola Tesla"],
+        "correta": "Albert Einstein",
+        "tema": "gerais"
+    },
+    {
+        "pergunta": "Quantos lados tem um octógono",
+        "respostas": ["8", "6", "12", "16"],
+        "correta": "8",
+        "tema": "gerais"
+    },
+    {
+        "pergunta": "Quantas faces tem um dado comum?",
+        "respostas": ["10", "6", "4", "8"],
+        "correta": "6",
+        "tema": "gerais"
+    },
+    {
+        "pergunta": "Quantos anos há em uma década?",
+        "respostas": ["15", "20", "10", "100"],
+        "correta": "10",
+        "tema": "gerais"
+    },
+    {
+        "pergunta": "Quantos minutos há em uma hora?",
+        "respostas": ["60", "24", "100", "50"],
+        "correta": "60",
+        "tema": "gerais"
+    },
+    {
+        "pergunta": "Quantos dias há em 4 semanas?",
+        "respostas": ["30", "31", "28", "29"],
+        "correta": "28",
+        "tema": "gerais"
+    },
+    {
+        "pergunta": "Quantas cores há no arco-íris?",
+        "respostas": ["5", "6", "7", "8"],
+        "correta": "7",
+        "tema": "gerais"
+    },
+    {
+        "pergunta": "Qual foi o nome da primeira missão tripulada à Lua?",
+        "respostas": ["Apollo 11", "Gemini 4", "Vostok 1", "Mercury 7"],
+        "correta": "Apollo 11",
+        "tema": "historia"
+    },
+    {
+        "pergunta": "Quem foi o primeiro ser humano a pisar na Lua?",
+        "respostas": ["Buzz Aldrin", "Neil Armstrong", "Michael Collins", "Yuri Gagarin"],
+        "correta": "Neil Armstrong",
+        "tema": "historia"
+    },
+    {
+        "pergunta": "Quem foi o lendário rei que retirou uma espada de uma pedra e se tornou rei da Inglaterra?",
+        "respostas": ["Rei Henrique VIII", "Rei Charles II", "Rei Arthur", "Rei João V"],
+        "correta": "Rei Arthur",
+        "tema": "historia"
+    },
+    {
+        "pergunta": "Qual é o nome do explorador espanhol que descobriu a América em 1492?",
+        "respostas": ["Fernão de Magalhães", "Marco Polo", "Vasco da Gama", "Cristóvão Colombo"],
+        "correta": "Cristóvão Colombo",
+        "tema": "historia"
+    },
+    {
+        "pergunta": "Quem foi a famosa rainha do Egito",
+        "respostas": ["Ísis", "Cleópatra", "Hatshepsut", "Nefertiti"],
+        "correta": "Cleópatra",
+        "tema": "historia"
+    },
+    {
+        "pergunta": "Qual é o nome das famosas estruturas antigas do Egito conhecidas por sua forma triangular e impressionante arquitetura?",
+        "respostas": ["Torres", "Obeliscos", "Esfinges", "Pirâmides"],
+        "correta": "Pirâmides",
+        "tema": "historia"
+    },
+     {
+        "pergunta": "Quem declarou a independência do Brasil e proclamou a famosa frase 'Independência ou Morte!'?",
+        "respostas": ["Dom João VI", "Dom Pedro II", "Dom Pedro I", "José Bonifácio"],
+        "correta": "Dom Pedro I",
+        "tema": "historia"
+    },
+    {
+        "pergunta": "Em que ano foi declarado a independência do Brasil",
+        "respostas": ["1822", "1922", "1812", "1912"],
+        "correta": "1822",
+        "tema": "historia"
+    },
+    {
+        "pergunta": "Qual é o elemento químico mais abundante no universo?",
+        "respostas": ["Oxigênio", "Hélio", "Carbono", "Hidrogênio"],
+        "correta": "Hidrogênio",
+        "tema": "ciencias"
+    },
+    {
+        "pergunta": "Qual é o órgão responsável por bombear sangue pelo corpo humano?",
+        "respostas": ["Pulmões", "Coração", "Estômago", "Fígado"],
+        "correta": "Coração",
+        "tema": "ciencias"
+    },
+    {
+        "pergunta": "Qual é a unidade de medida de tempo?",
+        "respostas": ["Metro", "Segundo", "Litro", "Grama"],
+        "correta": "Segundo",
+        "tema": "ciencias"
+    },
+    {
+        "pergunta": "Qual é a unidade básica da vida?",
+        "respostas": ["Célula", "Átomo", "Molécula", "DNA"],
+        "correta": "Célula",
+        "tema": "ciencias"
+    },
+    {
+        "pergunta": "Qual é o maior órgão do corpo humano?",
+        "respostas": ["Cérebro", "Fígado", "Pulmões", "Pele"],
+        "correta": "Pele",
+        "tema": "ciencias"
+    },
+    {
+        "pergunta": "Qual é a formula química da Água?",
+        "respostas": ["CO2", "H2O", "HCl", "NaCl"],
+        "correta": "H2O",
+        "tema": "ciencias"
+    },
+    {
+        "pergunta": "Qual é o processo pelo qual a água muda do estado líquido para o gasoso?",
+        "respostas": ["Evaporação", "Condensação", "Sublimação", "Fusão"],
+        "correta": "Evaporação",
+        "tema": "ciencias"
+    },
+    {
+        "pergunta": "Qual é a estrela mais próxima da Terra?",
+        "respostas": ["Proxima Centauri", "Alfa Centauri A", "Sol", "Betelgeuse"],
+        "correta": "Sol",
+        "tema": "ciencias"
+    },
+    {
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "respostas": ["Oceano Atlântico", "Oceano Pacífico", "Oceano Índico", "Oceano Ártico"],
+        "correta": "Oceano Pacífico",
+        "tema": "geografia"
+    },
+    {
+        "pergunta": "Qual é o maior deserto do mundo?",
+        "respostas": ["Deserto do Saara", "Deserto do Atacama", "Deserto de Gobi", "Deserto da Antártida"],
+        "correta": "Deserto da Antártida",
+        "tema": "geografia"
+    },
+    {
+        "pergunta": "Qual é a capital do Japão?",
+        "respostas": ["Pequim", "Seul", "Tóquio", "Bangcoc"],
+        "correta": "Tóquio",
+        "tema": "geografia"
+    },
+    {
+        "pergunta": "Qual é o país mais populoso do mundo?",
+        "respostas": ["Índia", "Estados Unidos", "Japão", "China"],
+        "correta": "China",
+        "tema": "geografia"
+    },
+    {
+        "pergunta": "Qual é o ponto mais alto da Terra?",
+        "respostas": ["Monte Everest", "Mont Blanc", "Aconcágua", "Monte Chimborazo"],
+        "correta": "Monte Everest",
+        "tema": "geografia"
+    },
+    {
+        "pergunta": "Qual é o esporte mais popular do mundo?",
+        "respostas": ["Futebol", "Basquete", "Tênis", "Vôlei"],
+        "correta": "Futebol",
+        "tema": "esportes"
+    },
+    {
+        "pergunta": "Qual é o esporte que é praticado em uma pista circular, onde os atletas correm em círculos em diferentes distâncias?",
+        "respostas": ["Atletismo", "Natação", "Ciclismo", "Basquete"],
+        "correta": "Atletismo",
+        "tema": "esportes"
+    },
+    {
+        "pergunta": "Qual é o único esporte que foi jogado na Lua?",
+        "respostas": ["Futebol", "Basquete", "Golfe", "Tênis"],
+        "correta": "Golfe",
+        "tema": "esportes"
+    },
+    {
+        "pergunta": "Qual país detém o recorde de mais títulos de Copa do Mundo FIFA no futebol masculino?",
+        "respostas": ["Brasil", "Estados Unidos", "Argentina", "França"],
+        "correta": "Brasil",
+        "tema": "esportes"
+    },
+    {
+        "pergunta": "Qual é a duração padrão de um jogo de futebol?",
+        "respostas": ["60 minutos", "90 minutos", "120 minutos", " 45 minutos"],
+        "correta": "90 minutos",
+        "tema": "esportes"
+    },
+    {
+        "pergunta": "Qual é o nome do prêmio mais prestigiado do cinema?",
+        "respostas": ["Grammy", "Oscar", "Emmy", "Tonny"],
+        "correta": "Oscar",
+        "tema": "arte"
+    },
+    {
+        "pergunta": "Quem foi o pintor da Mona Lisa?",
+        "respostas": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Michelangelo"],
+        "correta": "Leonardo da Vinci",
+        "tema": "arte"
+    },
+    {
+        "pergunta": "Quem é o autor da série de livros 'Harry Potter'?",
+        "respostas": ["J.K. Rowling", "Stephen King", "J.R.R. Tolkien", "George R.R. Martin"],
+        "correta": "J.K. Rowling",
+        "tema": "arte"
+    },
+    {
+        "pergunta": "Qual é o nome do alter ego do super-herói Homem-Aranha?",
+        "respostas": ["Bruce Wayne", "Tony Stark", "Peter Parker", "Clark Kent"],
+        "correta": "Peter Parker",
+        "tema": "arte"
+    },
+    {
+        "pergunta": "Quem é o cartunista brasileiro responsável pela criação da 'Turma da Mônica'?",
+        "respostas": ["Maurício de Sousa", "Ziraldo Alves Pinto", "Monteiro Loato", "Laerte Coutinho"],
+        "correta": "Maurício de Sousa",
+        "tema": "arte"
+    }
+]
